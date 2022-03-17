@@ -4,7 +4,7 @@
 
 #### This repository contains 2 folders with explained existing content (relations - relations between tables; queries - implemented queries/reports of different information) and the final project implemented in MS ACCESS. 
 
-This project was implemented on the second year of university (Faculty of Information Tehnologies, 2019) and is great for anyone who is learning the basic functions, logic and methods used in databases.
+This project was implemented on the second year of university (Faculty of Information Technologies, 2019) and is great for anyone who is learning the basic functions, logic and methods used in databases.
 Simple CRUD operations and reports are implemented for a cinema application.
 
 ________________________________________________________________________
